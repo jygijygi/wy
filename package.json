@@ -1,0 +1,24 @@
+{
+  "name": "wy",
+  "version": "1.0.0",
+  "description": "this is a test directory to lean Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jygijygi/wy.git"
+  },
+  "author": "bohan wen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jygijygi/wy/issues"
+  },
+  "homepage": "https://github.com/jygijygi/wy#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
